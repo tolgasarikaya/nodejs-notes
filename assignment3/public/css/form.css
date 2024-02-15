@@ -1,0 +1,9 @@
+input,
+button {
+  padding: 8px 10px;
+}
+button {
+  cursor: pointer;
+  background-color: brown;
+  color: white;
+}
